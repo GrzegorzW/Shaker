@@ -1,4 +1,4 @@
--module(drinks_sup).
+-module(shaker_sup).
 -behaviour(supervisor).
 
 -export([start_link/0]).
